@@ -20,12 +20,12 @@
 >4.[Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) 显示多余空格\
 >5.[indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
-**方法与配置**\
+**方法与配置**
 
 1.打开菜单栏中查看面板，在外观中只保留`主侧边栏`，并将主侧栏移动到右侧：![如图](https://github.com/Micropue/beautiful-vscode-theme/blob/a842370a8c42752c5cc1a891281c7dd5ab2513e1/%E6%88%AA%E5%B1%8F2024-11-01%2010.34.47.png)\
 2.在command 输入框中键入`>aimations` 在下面的提示中选择Install Animations\
 3.设置颜色主题：React Theme\
-4.打开setting.json 中找到<pre>"vscode_custom_css.imports": [],</pre>如果没有就添加上。\添加一个css 和js 文件。拷贝下面的代码并粘贴进去
+4.打开setting.json 中找到<pre>"vscode_custom_css.imports": [],</pre>如果没有就添加上。添加一个css 和js 文件。拷贝下面的代码并粘贴进去
 **css**
 <pre>.quick-input-widget {
     transform: translateY(-50%) !important;
